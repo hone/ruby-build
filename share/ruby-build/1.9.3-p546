@@ -1,0 +1,2 @@
+install_package "yaml-0.1.6" "http://pyyaml.org/download/libyaml/yaml-0.1.6.tar.gz#5fe00cda18ca5daeb43762b80c38e06e" --if needs_yaml
+install_package "ruby-1.9.3-p546" "https://s3-external-1.amazonaws.com/heroku-buildpack-ruby/ruby/1.9/ruby-1.9.3-p546.tar.gz#0b0071b8b26a336a9ab9a41a66fd1d38"
